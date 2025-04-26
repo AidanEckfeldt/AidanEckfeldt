@@ -11,7 +11,7 @@ I'm passionate about building practical, scalable solutions at the intersection 
 
 ## Skills
 - **Languages:** Python, Java, SQL
-- **Technologies:** Java Swing, JDBC, Derby DB, Selenium, Git, GitHub
+- **Technologies:** Java Swing, JDBC, Derby DB, Selenium, GitHub
 - **Concepts:** OOP, Data Structures and Algorithms, Automation, UI/UX Design, Database Integration
 - **Interests:** Machine Learning, Automation Tools, Healthcare Innovation, DJing, Powerlifting, Building Computers
 
