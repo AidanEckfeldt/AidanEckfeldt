@@ -1,60 +1,32 @@
-# Aidan Eckfeldt – Computer Science Student
+# Aidan Eckfeldt
 
-📍 University Park, PA  
-🎓 B.S. Computer Science, The Pennsylvania State University (Dec 2027)  
-📫 [aidan@eckfeldt.com](mailto:aidan@eckfeldt.com)  
-🔗 [LinkedIn](https://linkedin.com/in/aidan-eckfeldt-b0525a231)
-
----
-
-## 🧠 Technical Skills
-
-- **Languages:** Python, Java  
-- **Concepts:** Data Structures & Algorithms, OOP, UI/UX, File I/O, Memory Management  
-- **Tools & Libraries:** Java Swing, Visual Studio Code, Git  
-- **Domains:** Machine Learning, E-Commerce, Digital Marketing, Web Scraping
+📍 Computer Science Student at Penn State  
+🎓 B.S. in Computer Science, Class of 2027  
+📫 Contact: aidan@eckfeldt.com | [LinkedIn](https://linkedin.com/in/aidan-eckfeldt-b0525a231) | [GitHub](https://github.com/AidanEckfeldt)
 
 ---
 
-## 🧪 Projects
+## About Me
+I'm passionate about building practical, scalable solutions at the intersection of software engineering and machine learning. After overcoming a personal health challenge, I committed to using technology to make meaningful impacts, particularly in healthcare innovation and AI applications.
 
-### Total Daily Energy Expenditure Calculator (Java)
-- Built a Java Swing GUI app to calculate TDEE using the Mifflin-St Jeor Equation
-- Integrated real-time input validation, event-driven programming, and user feedback
-- Demonstrated strong OOP, UI/UX, and performance optimization skills
+## Skills
+- **Languages:** Python, Java, SQL
+- **Technologies:** Java Swing, JDBC, Derby DB, Selenium, Git, GitHub
+- **Concepts:** OOP, Data Structures and Algorithms, Automation, UI/UX Design, Database Integration
+- **Interests:** Machine Learning, Automation Tools, Healthcare Innovation, DJing, Powerlifting, Building Computers
 
-### Data Structure Manager (Python)
-- Developed a modular tool using linked lists, stacks, and queues
-- Implemented sorting, traversal, and file-based persistence with dynamic memory management
-- Applied concepts in task scheduling, storage, and algorithmic design
+## Projects
+- **Course Scheduler Java GUI**: Dynamic student-course scheduler with database integration and real-time UI updates.
+- **LionPATH Auto-Enroll Bot**: Python bot automating college course enrollments using Selenium and fallback handling.
+- **TDEE Calculator App**: Java Swing application for real-time fitness calculation with intuitive UI.
+- **Shopaparo.com**: E-commerce store leveraging TikTok marketing trends, generated $5K+ in four months.
 
----
-
-## 💼 Experience
-
-### Nittany AI Machine Learning Bootcamp – *Member* (Aug 2024 – Dec 2024)
-- Selected from 200+ applicants for a hands-on ML program
-- Worked with neural networks, regression models, classification, and data processing
-
-### Shopaparo.com – *Founder* (Jan 2023 – Apr 2023)
-- Launched Shopify store, sourced 50+ products via Alibaba, generated $5K+ revenue
-- Drove 10,000+ visits via TikTok campaigns; boosted engagement by 35%
-
-### Penn State – *Calculus Learning Assistant* (Aug 2024 – Dec 2024)
-- Mentored 150+ students, led supplemental sessions, improved student outcomes by 15%
-- Coordinated with faculty to enhance learning strategies and support
+## Current Goals
+- Pursuing internships in software engineering, machine learning, and AI research.
+- Continuing to build projects that combine technical depth and real-world application.
 
 ---
 
-## 📚 Relevant Coursework
-
-- Data Structures and Algorithms  
-- Object Oriented Programming  
-- User Interface Design
-
----
-
-## 🔍 Let's Connect
-
-I'm actively seeking internships and opportunities to apply my technical skills in real-world environments. If you're building something impactful and looking for a curious and driven contributor, feel free to reach out.
+## Let's Connect!
+I'm always open to internship opportunities, collaborative projects, or conversations about tech, innovation, and entrepreneurship.
 
