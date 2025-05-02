@@ -8,11 +8,10 @@
 
 ## About Me
 
-I’m a software builder with a mission.
+I’m a software engineer-in-training with a passion for building systems that work—fast, clean, and at scale.  
+From automating university systems to launching an e-commerce business, I bring technical range, curiosity, and a get-it-done mindset.
 
-After beating Acute Myeloid Leukemia, I committed to using technology to solve meaningful problems—with a focus on healthcare, automation, and accessible systems. Whether it’s optimizing campus systems, developing AI models, or building a startup from scratch, I thrive at the edge of engineering and impact.
-
-Currently pursuing a B.S. in Computer Science at Penn State, I’m building experience through personal projects, applied ML bootcamps, and leadership in tech-focused nonprofits like THON.
+Currently pursuing a B.S. in Computer Science at Penn State, I focus on applied learning through real-world projects, leadership roles, and hands-on experimentation in machine learning, backend engineering, and interface design.
 
 ---
 
@@ -22,57 +21,57 @@ Currently pursuing a B.S. in Computer Science at Penn State, I’m building expe
 **Frameworks & Tools:** Java Swing, JDBC, Selenium, Derby DB, XPath, Git, GitHub  
 **Concepts:** Data Structures & Algorithms, Object-Oriented Programming, UI/UX Design, Automation, File I/O, System Design  
 **Experience Areas:**  
+- Software Engineering & Automation  
 - Machine Learning & Predictive Analytics  
-- Full-Stack App Development  
 - Technical Project Leadership  
-- E-Commerce Automation & Web Scraping
+- Full-Stack Development
 
 ---
 
 ## 🚀 Projects
 
 ### 🔁 [LionPATH Auto-Enroll Bot](https://www.linkedin.com/feed/update/urn:li:activity:7182766345059942400/)
-Python bot that auto-enrolls students in classes the second registration opens. Handles 2FA, fallback logic, and sends SMS confirmations. Think sneaker bot meets course scheduler.
+Python automation tool that registers students for classes the instant enrollment opens. Bypasses lag, handles 2FA, applies fallback logic, and sends SMS confirmations.
 
-**Tech:** Python, Selenium, XPath, DOM Parsing, Automation Logic
+**Tech:** Python, Selenium, XPath, DOM Parsing
 
 ---
 
 ### 📅 Course Scheduler App
-Java GUI for university class registration with Derby DB backend, live seat tracking, and automated waitlisting.
+Java desktop application for university class registration with real-time seat tracking and waitlist automation.
 
-**Tech:** Java, JDBC, Derby DB, Java Swing, SQL
+**Tech:** Java, Swing, Derby DB, JDBC, SQL
 
 ---
 
 ### 🧠 Nittany AI Bootcamp (Fall 2024)
-Selected from 200+ applicants to build ML models using pre-trained networks, regression, and classification systems.
+Selected from 200+ students to participate in a hands-on machine learning program focused on applied model development and optimization.
 
-**Focus Areas:** Neural Networks, Model Optimization, Applied ML Systems
+**Skills:** Neural Networks, Regression, Classification, Model Optimization
 
 ---
 
 ### 🛒 Shopaparo.com
-Launched an e-commerce store using TikTok trends and Alibaba sourcing. Hit $5K+ revenue in 4 months.
+Built and ran a Shopify e-commerce store using TikTok trends and Alibaba sourcing; generated $5K+ revenue in 4 months.
 
-**Skills:** Digital Marketing, Supply Chain, Automation, Data Scraping
+**Skills:** Digital Marketing, Web Scraping, E-Commerce Ops, Automation
 
 ---
 
 ## 🔨 Experience
 
 **THON Technology Captain – Software Developer**  
-Maintaining and improving THON.org—the platform powering the world’s largest student-run philanthropy.  
-Focus on performance, UX, backend tools, and system reliability. Mission-driven by experience.
+Supporting development and optimization of THON.org, the public-facing platform behind the world’s largest student-run philanthropy.  
+Focused on system performance, backend tooling, and technical project delivery.
 
 ---
 
 ## 📬 Let’s Connect
 
-I’m actively seeking Summer 2025 internships in:
+I’m currently seeking Summer 2025 internships in:
 - Software Engineering  
 - Machine Learning / AI  
 - Backend & Automation  
-- Tech-for-Good / Healthcare Innovation
+- Tech-for-Good / Data-Driven Platforms
 
-If you're building something that matters—I’d love to hear from you.
+If you're building something meaningful—let’s talk.
