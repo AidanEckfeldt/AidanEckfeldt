@@ -8,10 +8,7 @@
 
 ## About Me
 
-I’m a software engineer-in-training with a passion for building systems that work—fast, clean, and at scale.  
-From automating university systems to launching an e-commerce business, I bring technical range, curiosity, and a get-it-done mindset.
-
-Currently pursuing a B.S. in Computer Science at Penn State, I focus on applied learning through real-world projects, leadership roles, and hands-on experimentation in machine learning, backend engineering, and interface design.
+I'm a Computer Science student at Penn State with a passion for building tools that solve real-world problems—from scheduling platforms and automation bots to AI models and web systems. I’m currently looking to add a second major in Artificial Intelligence to deepen my technical foundation and expand my work on cutting-edge systems. I serve as a Technology Captain for THON 2026, the world’s largest student-run philanthropy, where I help improve THON.org’s digital infrastructure in support of an $18M fundraising mission. I've also worked in tech project management at NYU Langone Health and completed the Nittany AI Bootcamp, where I applied machine learning to real-world challenges. I’m always looking to grow as an engineer, strategist, and teammate—especially in fast-paced environments where technology and impact intersect.
 
 ---
 
