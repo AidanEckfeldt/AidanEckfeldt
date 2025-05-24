@@ -15,63 +15,25 @@ Currently pursuing a B.S. in Computer Science at Penn State, I focus on applied 
 
 ---
 
-## 🔧 Technical Skills
+## Experience
 
-**Languages:** Python, Java, SQL  
-**Frameworks & Tools:** Java Swing, JDBC, Selenium, Derby DB, XPath, Git, GitHub  
-**Concepts:** Data Structures & Algorithms, Object-Oriented Programming, UI/UX Design, Automation, File I/O, System Design  
-**Experience Areas:**  
-- Software Engineering & Automation  
-- Machine Learning & Predictive Analytics  
-- Technical Project Leadership  
-- Full-Stack Development
+- **THON Technology Captain (THON.org Developer)**  
+  Developing and maintaining digital infrastructure for the world’s largest student-run philanthropy  
+- **Technology Project Intern @ NYU Langone Health**  
+  Worked with cross-functional teams to track tech infrastructure projects and improve operational workflows  
+- **Nittany AI Bootcamp**  
+  Applied machine learning models to real-world problems in a collaborative, feedback-heavy environment  
 
----
+## Projects
 
-## 🚀 Projects
+- **Course Scheduler**  
+  Java Swing app with Derby DB for managing class enrollment, waitlists, and semester tracking
 
-### 🔁 [LionPATH Auto-Enroll Bot](https://www.linkedin.com/feed/update/urn:li:activity:7182766345059942400/)
-Python automation tool that registers students for classes the instant enrollment opens. Bypasses lag, handles 2FA, applies fallback logic, and sends SMS confirmations.
+- **LionPATH Auto-Enroll Bot**  
+  Python + Selenium tool that automates course registration with backup class logic and real-time cart monitoring
 
-**Tech:** Python, Selenium, XPath, DOM Parsing
+- **TDEE Calculator**  
+  GUI-based Java application for fitness tracking with input validation and real-time feedback
 
----
-
-### 📅 Course Scheduler App
-Java desktop application for university class registration with real-time seat tracking and waitlist automation.
-
-**Tech:** Java, Swing, Derby DB, JDBC, SQL
-
----
-
-### 🧠 Nittany AI Bootcamp (Fall 2024)
-Selected from 200+ students to participate in a hands-on machine learning program focused on applied model development and optimization.
-
-**Skills:** Neural Networks, Regression, Classification, Model Optimization
-
----
-
-### 🛒 Shopaparo.com
-Built and ran a Shopify e-commerce store using TikTok trends and Alibaba sourcing; generated $5K+ revenue in 4 months.
-
-**Skills:** Digital Marketing, Web Scraping, E-Commerce Ops, Automation
-
----
-
-## 🔨 Experience
-
-**THON Technology Captain – Software Developer**  
-Supporting development and optimization of THON.org, the public-facing platform behind the world’s largest student-run philanthropy.  
-Focused on system performance, backend tooling, and technical project delivery.
-
----
-
-## 📬 Let’s Connect
-
-I’m currently seeking Summer 2025 internships in:
-- Software Engineering  
-- Machine Learning / AI  
-- Backend & Automation  
-- Tech-for-Good / Data-Driven Platforms
-
-If you're building something meaningful—let’s talk.
+- **THON.org Feature Development**  
+  Worked with internal tools and frontend codebase to improve experience for thousands of users during fundraising season
