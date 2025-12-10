@@ -117,6 +117,8 @@ Creator (2025)
 - Built neural networks, classification models, and optimized inference pipelines  
 - Developed practical applications using pre-trained models
 
+---
+
 ### 🧮 Learning Assistant — Calculus  
 *Penn State University*  
 - Supported undergraduate calculus courses by assisting students with core concepts including limits, derivatives, integrals, and applied problem-solving  
