@@ -64,6 +64,8 @@ Creator (2025) — built for friends
 - Took it from idea to live site: Vercel deployment, Prisma Postgres, env config, and custom domain — full launch cycle, solo
 - Tech: Next.js 14 (App Router), TypeScript, Tailwind CSS, bcrypt, serverless API routes
 
+---
+
 ### ⭐ **MyCord Network Chat Client**  
 *C • POSIX Sockets • Multithreading • ANSI TUI • GenAI-assisted*  
 Creator (December 2025)  
