@@ -7,10 +7,9 @@ Computer Science + Artifical Intelligence @ Penn State | Developer of uPR (App S
 ---
 
 ## 🔧 Technical Skills
-**Languages:** Python, C, Java, TypeScript, SQL  
-**Frameworks & Tools:** Django REST, Vue.js, React, Capacitor, Selenium, Wagtail, Git/GitHub  
-**AI & ML:** Prompt Engineering, Generative AI, Neural Networks, Model Optimization, Deep Learning  
-**Other Tools:** Excel, ClickUp, PeopleSoft, Unifier  
+**Languages:** Python, C, Java, SQL  
+**Frameworks & Tools:** Django REST, Vue.js, React, Capacitor, Selenium, Wagtail, Git/GitHub, PyTorch, Pandasn
+**AI & ML:** Prompt Engineering, Generative AI, Neural Networks, Model Optimization, Model Evaluation, Deep Learning, Probability & Statistics
 
 ---
 
