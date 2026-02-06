@@ -71,11 +71,15 @@ Creator (December 2025)
 ### 📱 **uPR — Mobile Strength Analytics App**  
 *React • TypeScript • Capacitor*  
 Creator (2025)  
-- Built **uPR**, an iOS mobile analytics app deployed to the App Store with structured data entry, personalized trend tracking, and predictive performance insights  
-- Designed a **predictive analytics system** including real-time PR detection and e1RM estimation  
-- Created a responsive UI/UX and customizable dashboards using Recharts for advanced data visualization  
-- Demonstrates strong capabilities in data modeling, frontend engineering, and product design  
-
+- Built uPR, an iOS strength analytics app deployed to the App Store with structured workout logging, personalized trend tracking, and predictive performance insights
+- Designed and implemented a predictive analytics system including real-time PR detection and estimated 1RM (e1RM) calculation
+- Engineered a structured data model for workouts, sets, reps, and load to enable consistent long-term analytics
+- Developed responsive, customizable dashboards using Recharts for advanced data visualization and trend analysis
+- Implemented personalized performance tracking to surface progress patterns across training cycles
+- Built a mobile-first UI focused on fast data entry and clear visual feedback during and after workouts
+- Architected the frontend using React + TypeScript for type safety, maintainability, and scalability
+- Used Capacitor to ship a native iOS experience from a single shared codebase
+- Demonstrates strong capabilities in data modeling, frontend engineering, analytics logic, and product design
 ---
 
 ### 🤖 **LionPATH Auto-Enroll Bot**  
