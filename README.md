@@ -57,11 +57,11 @@ Computer Science + Artifical Intelligence @ Penn State | Developer of uPR (App S
 
 ### 🅿️ **Phil or No Phil — Prediction Market (Live)**  
 *Next.js • TypeScript • Prisma • PostgreSQL • Vercel • Custom Domain*  
-Creator (January 2025)  
-- **Fun prediction-market side project** built with friends — we bought a custom domain and shipped it to production on **Vercel** so we could actually use it
-- Full-stack app: auth, creating markets, YES/NO “shares,” dynamic pricing, and admin resolution, backed by Prisma + PostgreSQL
-- Added a ticker banner, emoji-heavy market cards, and mobile-friendly UI so it felt like a real product we could show off
-- Went from idea to live site together: Vercel deployment, Prisma Postgres, env config, and custom domain — a full launch cycle as a small team
+Creator (2025) — built for friends  
+- **Fun prediction-market app** I built for my friends — bought a custom domain and shipped it to production on **Vercel** so we could actually use it
+- Full-stack: auth, creating markets, YES/NO “shares,” dynamic pricing, and admin resolution, backed by Prisma + PostgreSQL
+- Added a ticker banner, emoji-heavy market cards, and mobile-friendly UI so it felt like a real product to show off
+- Took it from idea to live site: Vercel deployment, Prisma Postgres, env config, and custom domain — full launch cycle, solo
 - Tech: Next.js 14 (App Router), TypeScript, Tailwind CSS, bcrypt, serverless API routes
 
 ### ⭐ **MyCord Network Chat Client**  
