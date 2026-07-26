@@ -1,168 +1,97 @@
 # Aidan Eckfeldt
 
-Computer Science + Artifical Intelligence @ Penn State | Developer of uPR (App Store)
+**CS + Math @ Penn State** · I build internal tooling that other teams actually run on.
 
-[LinkedIn](https://linkedin.com/in/aidaneckfeldt) • [GitHub](https://github.com/AidanEckfeldt) • aidan@eckfeldt.com
-
----
-
-## 🔧 Technical Skills
-**Languages:** Python, C, Java, SQL  
-**Frameworks & Tools:** Django REST, Vue.js, React, Capacitor, Selenium, Wagtail, Git/GitHub, PyTorch, Pandasn
-**AI & ML:** Prompt Engineering, Generative AI, Neural Networks, Model Optimization, Model Evaluation, Deep Learning, Probability & Statistics
+[LinkedIn](https://linkedin.com/in/aidaneckfeldt) · [Email](mailto:aidan@eckfeldt.com) · Manhattan / State College
 
 ---
 
-## 📚 Relevant Coursework / Topics Covered
+Most of my work sits at the boundary between a model and a real business process: talking to the people who do the work, finding where the friction actually is, and shipping something into their workflow that holds up under real data. Right now that means AI tooling for clinical and operational teams at NYU Langone Health, and a multi-tenant analytics platform I build end to end as technical co-founder.
 
-**Computer Science Foundations**  
-- Logic for Computer Science, formal reasoning, proofs  
-- Object-oriented programming, software design patterns, modular programming  
-- Web application development, front-end & back-end integration  
-- Programming language concepts, interpreters, runtime behavior  
-- Data structures, algorithms, performance analysis  
-- Systems programming in C, memory management, pointers, processes  
-- Computer organization, digital logic, CPU architecture, assembly-level behavior  
-
-**Systems & Low-Level Concepts**  
-- Digital design: combinational logic, sequential logic, Verilog, finite state machines  
-- Operating system concepts introduced through systems programming  
-- POSIX systems, multithreading, signals, sockets, concurrency primitives  
-- Networked systems and protocol implementation (e.g., custom TCP chat client project)  
-
-**Mathematics for CS & AI**  
-- Calculus, multivariable calculus, vector analysis  
-- Linear algebra: matrices, vector spaces, eigenvalues, transformations  
-- Discrete mathematics: sets, relations, graphs, combinatorics  
-- Probability theory: random variables, distributions, expectation  
-- Mathematical statistics: inference, hypothesis testing, estimators  
-
-**Machine Learning & AI Foundations**  
-- Neural networks, classification, regression, model optimization  
-- Data preprocessing, feature engineering, ML pipelines  
-- Generative AI prompting, LLM reasoning, model fine-tuning concepts  
-
-**Physics & Engineering Foundations**  
-- Classical mechanics, forces, energy, motion  
-- Applied engineering concepts: energy systems, real-world problem solving  
-
-**Communication & Applied Skills**  
-- Technical communication, structured presentation skills  
-- STEM education methods and pedagogical strategies  
-- Cross-disciplinary teamwork and collaborative engineering practices
+I care about correctness you can prove rather than correctness you hope for — schema-constrained model output, deterministic services around the LLM, and gates that reject bad generations before a user ever sees them.
 
 ---
 
-## 🚀 Featured Projects
+## Currently
 
-### 🅿️ **Phil or No Phil — Prediction Market (Live)**  
-*Next.js • TypeScript • Prisma • PostgreSQL • Vercel • Custom Domain*  
-Creator (2025) — built for friends  
-- **Fun prediction-market app** I built for my friends — bought a custom domain and shipped it to production on **Vercel** so we could actually use it
-- Full-stack: auth, creating markets, YES/NO “shares,” dynamic pricing, and admin resolution, backed by Prisma + PostgreSQL
-- Added a ticker banner, emoji-heavy market cards, and mobile-friendly UI so it felt like a real product to show off
-- Took it from idea to live site: Vercel deployment, Prisma Postgres, env config, and custom domain — full launch cycle, solo
-- Tech: Next.js 14 (App Router), TypeScript, Tailwind CSS, bcrypt, serverless API routes
+**NYU Langone Health** — AI/Automation Intern, MCIT · *Manhattan, NY · Summer 2026*
+Building and deploying AI tooling for clinical and operational teams inside the hospital system. Previously (Summer 2025) on the Campus Transformation IT PMO team, where I:
+- Surveyed 30 project managers and shadowed their workflows to find where AI could remove repetitive work
+- Identified procurement intake as the highest-impact target — PMs were hand-assembling forms from documentation, vendor quotes, and agreements, producing slow and inconsistent submissions to Finance and Legal
+- Mapped the intake process end to end with Finance and Legal, then built a guardrailed LLM workflow that extracts and standardizes procurement data into a structured package for PM review, cutting prep from days to minutes
 
----
-
-### ⭐ **MyCord Network Chat Client**  
-*C • POSIX Sockets • Multithreading • ANSI TUI • GenAI-assisted*  
-Creator (December 2025)  
-- Developed a fully featured TCP chat client implementing the custom MyCord protocol, supporting LOGIN, MESSAGE_SEND, MESSAGE_RECV, SYSTEM, and DISCONNECT messages using packed message structs and fixed 1064-byte framing  
-- Engineered robust networking via POSIX sockets, IPv4 TCP, DNS resolution, CLI parsing (`--ip`, `--domain`, `--port`, `--quiet`), and strict input validation to avoid server-side disconnect triggers  
-- Built a multithreaded architecture using `pthread_create` / `pthread_join`, enabling asynchronous message reception while handling local user input; implemented graceful shutdown via `SIGINT`, `SIGTERM`, EOF detection, and automatic LOGOUT dispatch  
-- Implemented reliable buffered reading logic tolerating partial packets, EINTR interruptions, and socket edge cases—ensuring crash-free operation across thousands of messages  
-- Added full ANSI-colored formatting: system-message styling, red disconnect alerts, timestamps, mention highlighting, and a quiet mode (`--quiet`)  
-- Used GenAI for modular design, input sanitization, and improved error-handling while maintaining full understanding of all generated code through iterative refinement  
-- Built an optional ANSI-based Text User Interface (`--tui`) featuring a fixed bottom input bar, auto-scrolling chat history, protected input line during incoming messages, and keyboard message-history navigation
+**THON Technology** — Technology Captain · *Penn State · May 2025 – Feb 2027*
+Cloud and systems infrastructure for the world's largest student-run philanthropy.
+- Traced ~10 minute CI builds on one-line commits to full image rebuilds on every push in a legacy, high-turnover codebase; added Docker layer caching and cut build times roughly in half
+- Audited AWS (EC2, S3, container images) to decommission unused resources and cut monthly compute spend ahead of THON Weekend
+- Own cloud and security operations across AWS, CI/CD, and IAM for year-round production systems
+- Engineered full-stack features for the public THON Store (Django, Vue, Wagtail) handling 15,000+ annual orders for a community of 50,000+
 
 ---
 
-### 📱 **uPR — Mobile Strength Analytics App**  
-*React • TypeScript • Capacitor*  
-Creator (2025)  
-- Built uPR, an iOS strength analytics app deployed to the App Store with structured workout logging, personalized trend tracking, and predictive performance insights
-- Designed and implemented a predictive analytics system including real-time PR detection and estimated 1RM (e1RM) calculation
-- Engineered a structured data model for workouts, sets, reps, and load to enable consistent long-term analytics
-- Developed responsive, customizable dashboards using Recharts for advanced data visualization and trend analysis
-- Implemented personalized performance tracking to surface progress patterns across training cycles
-- Built a mobile-first UI focused on fast data entry and clear visual feedback during and after workouts
-- Architected the frontend using React + TypeScript for type safety, maintainability, and scalability
-- Used Capacitor to ship a native iOS experience from a single shared codebase
-- Demonstrates strong capabilities in data modeling, frontend engineering, analytics logic, and product design
----
+## Selected Work
 
-### 🤖 **LionPATH Auto-Enroll Bot**  
-*Python • Selenium*  
-Creator (2025)  
-- Developed an automation bot to enroll in high-demand university courses faster than human users  
-- Implemented Selenium + XPath logic with retry and fallback rules for closed or failed enrollments  
-- Added automated 2FA-handling and SMS confirmations  
-- Optimized for reliability, speed, and edge-case detection  
+### Mandate — Multi-tenant AI analytics platform
+*TypeScript · Fastify · React · Supabase · BullMQ · Redis · Anthropic SDK*
+**Technical Co-Founder** · 2026 · *private*
 
----
+- Architected the full stack: a TypeScript/Fastify backend on Supabase with row-level security and JWT-tested data isolation per client organization
+- Designed an **LLM-narrates-never-calculates** architecture that enforces correctness mechanically — a PII-stripping boundary so client data never reaches the model, a closed prompt schema, and a 10-check gate that rejects hallucinated output
+- Built tested deterministic services for scoring, segmentation, and confidence-tier ranking, plus a queued memo-generation pipeline on BullMQ and Redis
 
-## 🏥 Experience
+### uPR — iOS strength analytics
+*React · TypeScript · Capacitor*
+**Creator** · 2025 · **[Live on the App Store](https://apps.apple.com/app/id0000000000)**
 
-### **NYU Langone Health — MCIT EPMO CT Intern**  
-*Manhattan, NY | June 2025 – August 2025*  
-- Automated clinical project workflows with AI-enabled Power Automate, reducing documentation time from **2 days → 2 hours**  
-- Supported hospital renovation portfolios, adapting to enterprise healthcare systems and cross-team communication workflows  
-- Processed secure procurement data and improved systems integration reliability  
-- Presented automation outcomes to the **CIO**, demonstrating measurable efficiency and operational impact  
-- Tools: Excel, ClickUp, PeopleSoft, Unifier  
+- Shipped solo to the App Store: workout logging, trend tracking, and predictive performance insights
+- Built a predictive analytics engine with real-time PR detection and estimated 1RM calculation on top of a structured workout/set/rep/load data model designed for long-term consistency
+- Mobile-first UI tuned for fast entry mid-workout, with Recharts dashboards for post-session analysis
 
----
+### MyCord — TCP chat client in C
+*C · POSIX sockets · pthreads*
+**Creator** · 2025
 
-## 💻 THON Technology Captain — Developer  
-*Penn State | May 2025 – February 2026*  
-- Supported THON, the world’s largest student-run philanthropy (**$18M+ raised annually**)  
-- Engineered backend features using Django REST, SQL, Vue, WordPress, and Wagtail to power THON Store operations  
-- Helped process **15,000+ annual orders** and improved fulfillment workflows at scale  
-- Modernized UI/UX and optimized site responsiveness for tens of thousands of users  
-- Maintained uptime and resolved technical issues during THON Weekend  
+- Implemented a custom binary protocol (LOGIN, MESSAGE_SEND, MESSAGE_RECV, SYSTEM, DISCONNECT) over packed structs with fixed 1064-byte framing
+- Multithreaded architecture separating async message receipt from local input, with graceful shutdown on SIGINT/SIGTERM/EOF and automatic logout dispatch
+- Buffered read logic tolerant of partial packets, `EINTR`, and socket edge cases — no crashes across thousands of messages
+
+### Phil or No Phil — Prediction market
+*Next.js 14 · TypeScript · Prisma · PostgreSQL · Vercel*
+**Creator** · 2025 · *[live](https://philornophil.com)*
+
+- Built a working prediction market for friends: auth, market creation, YES/NO shares, dynamic pricing, admin resolution
+- Took it idea to production solo — Prisma Postgres, env config, Vercel deploy, custom domain
 
 ---
 
-## 🤖 Nittany AI Alliance — Machine Learning Bootcamp  
-*Fall 2024*  
-- Selected from 200+ applicants for hands-on machine learning training  
-- Built neural networks, classification models, and optimized inference pipelines  
-- Developed practical applications using pre-trained models
+## Also
+
+**Nittany AI Machine Learning Bootcamp** · Jan – Apr 2026
+Selected from 200+ applicants. Built end-to-end PyTorch pipelines across regression, classification, neural networks, RAG, and fine-tuning; shipped fraud detection, digit recognition, and an LLM retrieval system. Competed in the Nittany AI Challenge.
+
+**Learning Assistant, Calculus** · Penn State
+Led small-group sessions and office hours for undergraduate calculus.
 
 ---
 
-### 🧮 Learning Assistant — Calculus  
-*Penn State University*  
-- Supported undergraduate calculus courses by assisting students with core concepts including limits, derivatives, integrals, and applied problem-solving  
-- Led small-group learning sessions focused on conceptual understanding and step-by-step reasoning  
-- Provided individualized guidance during office hours, helping students strengthen foundational math skills and prepare for exams  
-- Collaborated with faculty to implement active-learning strategies and improve classroom engagement  
-- Developed supplemental explanations and walkthroughs to help students approach complex problems with confidence
+## Tools
+
+**Languages** Python · TypeScript · C · Java · SQL
+**Backend & Data** Fastify · Django REST · Supabase/Postgres · Prisma · Redis · BullMQ · REST APIs
+**Frontend** React · Vue · Next.js · Capacitor
+**Infra** AWS (ECS, ECR, EC2, S3, CloudFront) · Docker · CI/CD · IAM
+**AI/ML** PyTorch · Hugging Face · Anthropic SDK · RAG · fine-tuning · evaluation
+
+Currently working on: Go, and getting more comfortable in systems-level territory beyond C.
 
 ---
 
-## 🎓 Education
-**Pennsylvania State University — College of Engineering**  
-Bachelor of Science in **Computer Science**  
-Minor in **Artificial Intelligence**  
-Graduating **December 2027**  
-GPA: 3.41  
+## Education
 
-**Awards:** MLK Jr. Scholarship Recipient, Dean’s List  
+**Pennsylvania State University**, College of Engineering — *December 2027*
+B.S. Computer Science · Minors in Artificial Intelligence and Mathematics · GPA 3.6
+MLK Jr. Scholarship Recipient · Dean's List
 
 ---
 
-## 📈 Current Focus
-- Building AI-powered analytics tools  
-- Enhancing uPR features & UI/UX  
-- Developing systems-level C projects  
-- Building automation workflows & backend tooling  
-- Exploring ML model optimization & deployment  
-
----
-
-## 📬 Contact Me
-If you're working on AI, mobile apps, developer tools, or automation — I’d love to collaborate.  
-Reach me at **aidan@eckfeldt.com** or connect on LinkedIn.
+If you're working on deployed AI systems, healthcare infrastructure, or internal tooling that people depend on, I'd be glad to talk — **aidan@eckfeldt.com**
