@@ -1,10 +1,10 @@
 # Aidan Eckfeldt
 
-CS + Math @ Penn State · December 2027
+AI, CS, Math @ Penn State · December 2027
 
 [LinkedIn](https://linkedin.com/in/aidaneckfeldt) · aidan@eckfeldt.com
 
-Currently: AI/automation tooling for clinical teams at **NYU Langone Health**, technical co-founder at **Mandate**, and Technology Captain for **THON**.
+Currently: AI/automation tooling for clinical teams at **NYU Langone Health**, and Technology Captain for **THON**.
 
 ---
 
